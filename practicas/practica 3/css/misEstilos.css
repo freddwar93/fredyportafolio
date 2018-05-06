@@ -1,0 +1,31 @@
+
+
+.menu{
+	padding: 0;
+margin-left: 6px;
+}
+
+.menu li{
+	display: inline;
+
+
+}
+
+.menu li a{
+	font-family: verdana;
+	font-size: 12px;
+	text-decoration: none;
+	float:left;
+	padding: 14px;
+	background-color: #ff6600;
+	color: #fff;
+	opacity: 0.85;
+
+}
+
+.menu li a:hover{
+	opacity: 1;
+
+}
+
+
